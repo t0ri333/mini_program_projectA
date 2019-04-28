@@ -1,2 +1,1 @@
-# udacity_wechat_miniprogram
-# udacity_wechat_miniprogram
+# This is my first miniprogram project!
